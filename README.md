@@ -14,3 +14,6 @@ https://blog.naver.com/buzz7811/223103869767
 
 **관계 | 함수 | 유용한 함수**   
 https://blog.naver.com/buzz7811/223103989743
+
+**기본계수법칙 | 순열 | 조합 | 점화식 | 점화식의 해**   
+https://blog.naver.com/buzz7811/223104895281
